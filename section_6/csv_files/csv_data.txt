@@ -1,0 +1,4 @@
+name,age,university,degree
+rolf,25,mit,computer science
+hannah,35,yale,history
+jenny,55,harvard,computer science
